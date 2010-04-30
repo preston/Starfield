@@ -81,7 +81,7 @@ class Starfield < Processing::App
       text("Roll: Z, C", 0, 110, 0)
       text("Look: click and drag mouse.", 0, 120, 0)
       text("Pause/Resume: TAB", 0, 130, 0)
-      text("OpenRain.com", 0, 150, 0)
+      text("PrestonLee.com", 0, 150, 0)
       pop_matrix
     else
       # puts "MOVED"
